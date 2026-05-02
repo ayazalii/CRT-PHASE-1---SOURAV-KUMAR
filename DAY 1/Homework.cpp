@@ -1,0 +1,1 @@
+//wap that stimulates an atm withdraw system , the program should take the withdrawal amount as an input from the user and determine whether the transaction is valid or not .
