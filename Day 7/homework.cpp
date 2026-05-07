@@ -1,0 +1,2 @@
+// abstraction,encapsulation
+// create a college management system in that in  base class containing person''s name and age details and two derived class students and teachers contains their data respectively, then aalso create a virtual function in that so they belong to which category either student or teacher , by default they belong to their derived class.
