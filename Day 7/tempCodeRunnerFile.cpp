@@ -1,0 +1,1 @@
+ virtual void show()=0;
