@@ -31,6 +31,7 @@ class ATM{
 };
 int main(){
     int n;
+    cout<<"Enter balance: "<<endl;
     cin>>n;
     ATM a;
     a.setbalance(n);
